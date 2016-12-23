@@ -1,4 +1,4 @@
-# minecraftBattleship
+# minecraftBattleship   ***in progress***
 
 A scriptCraft version of the popular warship guessing game. 
 
